@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">NetoXml</string>
+    <string name="title">Calculadora Neto</string>
+    <string name="bruto">Salario bruto anual</string>
+    <string name="pagas">Pagas</string>
+    <string name="edad">Edad</string>
+    <string name="grupo">Grupo</string>
+    <string name="disc">Discapacidad</string>
+    <string name="es_civ">Estado civil</string>
+    <string name="hij">Hijos</string>
+    <string name="fab_content_desc">calcular el salario neto</string>
+    <string name="discapacidad">Discapacidad</string>
+    <string name="no">No</string>
+    <string name="si">Si</string>
+    <string name="salario_neto_mensual">Salario neto mensual</string>
+    <string name="retenci_n_irpf">Retención IRPF</string>
+    <string name="posibles_deducciones">Posibles deducciones</string>
+    <string name="neto_anual">Salario neto anual</string>
+    <string name="icono_calculadora">icono calculadora</string>
+
+    <string-array name="lista_discapacidad">
+        <item>Menor de 65% (Sin asistencia)</item>
+        <item>Menor del 65% (Con asistencia)</item>
+        <item>Mayor o igual al 65%</item>
+    </string-array>
+
+    <string-array name="estado_civil">
+        <item>Casado</item>
+        <item>Divorciado</item>
+        <item>Separado</item>
+        <item>Soltero</item>
+        <item>Viudo</item>
+    </string-array>
+
+    <string-array name="grupo_profesional">
+        <item>Licenciado</item>
+        <item>Ingeniero</item>
+        <item>Jefe Administrativo</item>
+        <item>Ayudante</item>
+        <item>Oficial administrativo</item>
+        <item>Peones</item>
+        <item>Autónomo</item>
+    </string-array>
+
+</resources>
